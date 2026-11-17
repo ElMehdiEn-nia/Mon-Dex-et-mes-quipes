@@ -4,11 +4,11 @@ export const creatures = [];
 export const getData = async (limit, skip) => {
     try {
         const response = await fetch(
-            `https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${skip}`
+            `http://localhost:3000/creatures`
         );
 
         if (!response.ok) {
-            throw new Error("API request failed");
+            throw new Error("Error fetch data");
         }
 
         const data = await response.json();
