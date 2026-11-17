@@ -1,13 +1,6 @@
-export function renderTypes(counts, activeType) {
-  if (activeType === "") {
-    return [...counts]
-  } else {
-    const filterByType = counts.filter(count => count.activeType() === activeType())
-  }
-}
-export function Afficher(Array) {
-  const section = document.getElementById("grid");
 
+export function Afficher(Array){
+  const section = document.getElementById("grid");
   section.innerHTML = "";
   console.log("Cards to display:", Array.length);
   Array.forEach((pokemon) => {
@@ -34,7 +27,7 @@ export function Afficher(Array) {
             </div>
 
             <p class="text-sm text-black">
-                ${pokemon.level} · Total 470
+                ${pokemon.level} 
             </p>
 
             <button type="button" class="btn-outline add-team-btn">
