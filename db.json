@@ -1,0 +1,139 @@
+{
+  "creatures": [
+    {
+      "id": 1,
+      "numero": "#001",
+      "name": "Pikachu",
+      "type": "Electrique",
+      "rarete":"Commune",
+      "prix": 12,
+      "stock": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3iC9Xq112pQPRfORw6PmZ6IgsHwiwAIiIWR8bxmVHng&s=10",
+      "description": "Pikachu est une créature fictive de type Electrique issue de la franchise Nintendo,et la mascotte officielle se l'univers Pokemon."
+    },
+    {
+        "id":2,
+        "numero":"#002",
+        "name":"flareon",
+        "type":"Feu",
+        "rarete":"Rare",
+        "prix": 30,
+        "stock": 4,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleOmjY8wyErEXhvuZ2HtydpxB7Y06kXtpK9ZOmLNYTA&s=10",
+        "description":"Flareon est un Pokemon de type Feu de la première génération,et l'une des évolutions possibles d'Evoli." 
+    },
+    {
+        "id":3,
+        "numero":"#003",
+        "name":"Mega Rayquaza ",
+        "type":"Dragon",
+        "rarete":"Légendaire",
+        "prix": 110,
+        "stock": 1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9kFRnTSr_tvNxHd9teTsL1ErMDmLTutngrxxkESzjA&s=10",
+        "description":"Mega Rayquaza est un Mega-Pokemon légendaire de type Dragon et vol,issu de la Mega-Evolution de Rayquaza dans Pokemon Rubis Oméga et Saphir Alpha."
+    },
+    {
+      "id":4,
+      "numero": "#004",
+      "name": "Greninja",
+      "type": "Eau",
+      "rarete":"Commune",
+      "prix": 10,
+      "stock": 12,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9XTyREE8ovuKndCZrEgQdEQSekAbqM0NEQeUGlPbFQ&s=10",
+      "description": "Amphinobi ou bien Greninja est un Pokemon de type Eau et Ténèbles introduit dans la 6eme génération(région de Kalos)."
+    },
+    {
+      "id": 5,
+      "numero": "#005",
+      "name": "Mega Lucario",
+      "type": "Plante",
+      "rarete":"Rare",
+      "prix": 28,
+      "stock": 0,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKT2cZrodIpQJrBDJL4_MaO0_J0t2wpBJq0ti5gTeHQ&s=10",
+      "description": "Mega Lucario est la forme méga-évoluée du Pokemon de type Combat et Acier Lucario."
+    },
+    {
+      "id": 6,
+      "numero": "#006",
+      "name": "Charizard",
+      "type": "Feu",
+      "rarete":"Légendaire",
+      "prix": 95,
+      "stock": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDKq9vsVMNNoRLf6ZtwHrsJKgC401k3lX5CiJYlU_oA&s=10",
+      "description": "Charizard est un Pokemon emblématique de la première génération."
+    },
+    {
+      "id": 7,
+      "numero": "#007",
+      "name": "Rapidash",
+      "type": "Feu",
+      "rarete":"Commune",
+      "prix": 8,
+      "stock": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemRSNmDmcjwPllv919IATxiCkyJ0se1xuG3RvEa2Tbw&s=10",
+      "description": "Galopa ou Rapidash en anglais est un Pokemon de la première génération et l'évolution de Ponyta."
+    },
+    {
+      "id": 8,
+      "numero": "#008",
+      "name": "Omanyte",
+      "type": "Eau",
+      "rarete":"Rare",
+      "prix": 35,
+      "stock": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7P6-gmIxOVVUZR3ojANu_FbKRx5NOZLEaE_FTZWerQ&s=10",
+      "description": "Omanyte est un Pokemon préhistorique de la 1ère génération de type Roche et Eau."
+    },
+    {
+      "id": 9,
+      "numero": "#009",
+      "name": "Muk",
+      "type": "Poison",
+      "rarete":"Commune",
+      "prix": 14,
+      "stock": 6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu2EBMxyJkFhd-rv61erCe3cQ2pOmJRY8rKdko8UpkDw&s=10",
+      "description": "Muk est un Pokemon de type Poison de la première génération ."
+    },
+    {
+      "id": 10,
+      "numero": "#010",
+      "name": "Magmar",
+      "type": "Feu",
+      "rarete":"Rare",
+      "prix": 40,
+      "stock": 5,
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2021/12/Magmar-December-2021-Spotlight-Hour-Pokemon-GO.jpg",
+      "description": "Magmar est un Pokemon de type Feu de la première génération ."
+    },
+    {
+      "id": 11,
+      "numero": "#011",
+      "name": "Eevee",
+      "type": "Normal",
+      "rarete":"Commune",
+      "prix": 120,
+      "stock": 0,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZGe2S4-_aCJag1yZJBjl_xngQiGF9xZRVVZ4JTzeiw&s=10",
+      "description": "Est un Pokemon de type Normal de la première génération,célèbre pour sa capacité unique à évoluer en de multiples formes ."
+    },
+    {
+      "id": 12,
+      "numero": "#012",
+      "name": "Vaporeon",
+      "type": "Eau",
+      "rarete":"Commune",
+      "prix": 9,
+      "stock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeb2LFWS5B0S09GUBlx7uxP3mNcYAKDG11Qiz6auYgaw&s",
+      "description": "Vaporeon est un Pokemon de type Eau de la première génération,connu sous le nom de Pokemon Bubble Jet."
+    }
+         
+    
+  ]
+}
+  
